@@ -1,0 +1,2 @@
+ErrorDocument 404 http://localhost/E_commerce_Project/404page.php
+DirectoryIndex index.php index.html
